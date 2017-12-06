@@ -1,0 +1,25 @@
+@charset "UTF-8";
+h1
+{
+	color:#00FF00;
+}
+
+label
+{
+	color:red;
+}
+
+input
+{
+	color:#00008B;
+}
+
+*
+{
+	background-color:#F5F5F5;
+}
+
+idUsuario
+{
+	color:red;
+}

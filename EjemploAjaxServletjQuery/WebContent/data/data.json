@@ -1,0 +1,24 @@
+{
+	"peliculas": [
+		{
+			"nombre": "Distrito 9",
+			"genero": "ciencia ficcion",
+			"clasificacion": "B"
+		},
+		{
+			"nombre": "interstellar",
+			"genero": "ciencia ficcion",
+			"clasificacion": "A"
+		},
+		{
+			"nombre": "king of heaven",
+			"genero": "Epica",
+			"clasificacion": "B15"
+		},
+		{
+			"nombre": "Heroe",
+			"genero": "Artes marciales",
+			"clasificacion": "B15"
+        }  
+	]
+}

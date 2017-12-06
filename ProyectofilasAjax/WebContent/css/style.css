@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+h1
+{
+		color:#FF7F50;
+}
+
+
+th
+{
+	background-color:#ADFF2F;
+}
+
+td 
+{
+	background-color:#87CEFA;
+}
+th
+{
+	 color:black;
+}
+td
+{
+		color:white;
+}
